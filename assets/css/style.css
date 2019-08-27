@@ -56,10 +56,12 @@ font-size:10px;
 }
 
 .row{
-    display: flex;
+    float:left;
+    padding:10px;
+
 }
 
 .column{
-    flex:33.33%;
+    flex:;
     padding:5px;
 }
